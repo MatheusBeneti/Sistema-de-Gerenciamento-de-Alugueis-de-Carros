@@ -1,2 +1,24 @@
-# Sistema-de-Gerenciamento-de-Alugu-is-de-Carros
-Um sistema de gerenciamento de aluguéis de carros em C que utiliza listas duplamente encadeadas para armazenar os dados e oferece persistência através de arquivos de texto. Ele permite que os usuários gerenciem clientes, veículos e aluguéis, com funcionalidades para adicionar, alterar, consultar e excluir registros.
+# Sistema de Gerenciamento de Aluguel de Carros
+
+Este é um sistema de gerenciamento de aluguel de carros escrito em C. O sistema permite o cadastro, consulta, alteração e exclusão de clientes, carros e alugueis, bem como a persistência dos dados em arquivos.
+
+## Funcionalidades
+
+- **Clientes:**
+  - Incluir
+  - Alterar
+  - Consultar
+  - Deletar
+
+- **Veículos:**
+  - Incluir
+  - Alterar
+  - Consultar
+  - Deletar
+
+- **Aluguéis:**
+  - Incluir
+  - Alterar
+  - Consultar
+  - Deletar
+
