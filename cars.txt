@@ -1,0 +1,2 @@
+Modelo: celta, Placa: 2
+Modelo: cruze, Placa: 1
